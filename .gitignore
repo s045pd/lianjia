@@ -8,7 +8,7 @@ ghostdriver.log
 celerybeat-schedule.db
 celery_db
 
-debug/
+debugs/
 datas/
 testspace/
 
