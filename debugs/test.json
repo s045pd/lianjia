@@ -1,0 +1,1510 @@
+{
+    "110000":
+    {
+        "id": "110000",
+        "name": "\u5317\u4eac",
+        "host": "m.lianjia.com\/bj",
+        "short": "bj",
+        "province": "\u5317\u4eac",
+        "province_short": "bj",
+        "pinyin": "beijing",
+        "longitude": "116.4138",
+        "latitude": "39.8992",
+        "url": "https:\/\/m.lianjia.com\/bj\/"
+    },
+    "310000":
+    {
+        "id": "310000",
+        "name": "\u4e0a\u6d77",
+        "host": "m.lianjia.com\/sh",
+        "short": "sh",
+        "province": "\u4e0a\u6d77",
+        "province_short": "sh",
+        "pinyin": "shanghai",
+        "longitude": "121.4804",
+        "latitude": "31.2368",
+        "url": "https:\/\/m.lianjia.com\/sh\/"
+    },
+    "440100":
+    {
+        "id": "440100",
+        "name": "\u5e7f\u5dde",
+        "host": "m.lianjia.com\/gz",
+        "short": "gz",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "guangzhou",
+        "longitude": "113.27373",
+        "latitude": "23.128823",
+        "url": "https:\/\/m.lianjia.com\/gz\/"
+    },
+    "440300":
+    {
+        "id": "440300",
+        "name": "\u6df1\u5733",
+        "host": "m.lianjia.com\/sz",
+        "short": "sz",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "shenzhen",
+        "longitude": "114.051845",
+        "latitude": "22.556468",
+        "url": "https:\/\/m.lianjia.com\/sz\/"
+    },
+    "120000":
+    {
+        "id": "120000",
+        "name": "\u5929\u6d25",
+        "host": "m.lianjia.com\/tj",
+        "short": "tj",
+        "province": "\u5929\u6d25",
+        "province_short": "tj",
+        "pinyin": "tianjin",
+        "longitude": "117.204208",
+        "latitude": "39.096496",
+        "url": "https:\/\/m.lianjia.com\/tj\/"
+    },
+    "510100":
+    {
+        "id": "510100",
+        "name": "\u6210\u90fd",
+        "host": "m.lianjia.com\/cd",
+        "short": "cd",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "chengdu",
+        "longitude": "104.06",
+        "latitude": "30.67",
+        "url": "https:\/\/m.lianjia.com\/cd\/"
+    },
+    "320100":
+    {
+        "id": "320100",
+        "name": "\u5357\u4eac",
+        "host": "m.lianjia.com\/nj",
+        "short": "nj",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "nanjing",
+        "longitude": "118.802948",
+        "latitude": "32.122127",
+        "url": "https:\/\/m.lianjia.com\/nj\/"
+    },
+    "330100":
+    {
+        "id": "330100",
+        "name": "\u676d\u5dde",
+        "host": "m.lianjia.com\/hz",
+        "short": "hz",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "hangzhou",
+        "longitude": "120.1601",
+        "latitude": "30.2802",
+        "url": "https:\/\/m.lianjia.com\/hz\/"
+    },
+    "370200":
+    {
+        "id": "370200",
+        "name": "\u9752\u5c9b",
+        "host": "m.lianjia.com\/qd",
+        "short": "qd",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "qingdao",
+        "longitude": "120.33",
+        "latitude": "36.07",
+        "url": "https:\/\/m.lianjia.com\/qd\/"
+    },
+    "210200":
+    {
+        "id": "210200",
+        "name": "\u5927\u8fde",
+        "host": "m.lianjia.com\/dl",
+        "short": "dl",
+        "province": "\u8fbd\u5b81",
+        "province_short": "ln",
+        "pinyin": "dalian",
+        "longitude": "121.597023",
+        "latitude": "38.91401",
+        "url": "https:\/\/m.lianjia.com\/dl\/"
+    },
+    "320500":
+    {
+        "id": "320500",
+        "name": "\u82cf\u5dde",
+        "host": "m.lianjia.com\/su",
+        "short": "su",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "suzhou",
+        "longitude": "120.5811424828",
+        "latitude": "31.3010678543",
+        "url": "https:\/\/m.lianjia.com\/su\/"
+    },
+    "350200":
+    {
+        "id": "350200",
+        "name": "\u53a6\u95e8",
+        "host": "m.lianjia.com\/xm",
+        "short": "xm",
+        "province": "\u798f\u5efa",
+        "province_short": "fj",
+        "pinyin": "xiamen",
+        "longitude": "118.092388",
+        "latitude": "24.488705",
+        "url": "https:\/\/m.lianjia.com\/xm\/"
+    },
+    "420100":
+    {
+        "id": "420100",
+        "name": "\u6b66\u6c49",
+        "host": "m.lianjia.com\/wh",
+        "short": "wh",
+        "province": "\u6e56\u5317",
+        "province_short": "hb",
+        "pinyin": "wuhan",
+        "longitude": "114.307576",
+        "latitude": "30.597996",
+        "url": "https:\/\/m.lianjia.com\/wh\/"
+    },
+    "500000":
+    {
+        "id": "500000",
+        "name": "\u91cd\u5e86",
+        "host": "m.lianjia.com\/cq",
+        "short": "cq",
+        "province": "\u91cd\u5e86",
+        "province_short": "cq",
+        "pinyin": "chongqing",
+        "longitude": "106.56168",
+        "latitude": "29.573258",
+        "url": "https:\/\/m.lianjia.com\/cq\/"
+    },
+    "430100":
+    {
+        "id": "430100",
+        "name": "\u957f\u6c99",
+        "host": "m.lianjia.com\/cs",
+        "short": "cs",
+        "province": "\u6e56\u5357",
+        "province_short": "hn",
+        "pinyin": "changsha",
+        "longitude": "112.939684",
+        "latitude": "28.234102",
+        "url": "https:\/\/m.lianjia.com\/cs\/"
+    },
+    "370101":
+    {
+        "id": "370101",
+        "name": "\u6d4e\u5357",
+        "host": "m.lianjia.com\/jn",
+        "short": "jn",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "jinan",
+        "longitude": "116.988747",
+        "latitude": "36.672828",
+        "url": "https:\/\/m.lianjia.com\/jn\/"
+    },
+    "440600":
+    {
+        "id": "440600",
+        "name": "\u4f5b\u5c71",
+        "host": "m.lianjia.com\/fs",
+        "short": "fs",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "foshan",
+        "longitude": "113.134026",
+        "latitude": "23.035095",
+        "url": "https:\/\/m.lianjia.com\/fs\/"
+    },
+    "441900":
+    {
+        "id": "441900",
+        "name": "\u4e1c\u839e",
+        "host": "m.lianjia.com\/dg",
+        "short": "dg",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "dongguan",
+        "longitude": "113.752482",
+        "latitude": "23.003846",
+        "url": "https:\/\/m.lianjia.com\/dg\/"
+    },
+    "610100":
+    {
+        "id": "610100",
+        "name": "\u897f\u5b89",
+        "host": "m.lianjia.com\/xa",
+        "short": "xa",
+        "province": "\u9655\u897f",
+        "province_short": "sx",
+        "pinyin": "xian",
+        "longitude": "108.949074",
+        "latitude": "34.26539",
+        "url": "https:\/\/m.lianjia.com\/xa\/"
+    },
+    "130100":
+    {
+        "id": "130100",
+        "name": "\u77f3\u5bb6\u5e84",
+        "host": "m.lianjia.com\/sjz",
+        "short": "sjz",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "shijiazhuang",
+        "longitude": "114.518633",
+        "latitude": "38.048731",
+        "url": "https:\/\/m.lianjia.com\/sjz\/"
+    },
+    "370600":
+    {
+        "id": "370600",
+        "name": "\u70df\u53f0",
+        "host": "m.lianjia.com\/yt",
+        "short": "yt",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "yantai",
+        "longitude": "121.451904",
+        "latitude": "37.469765",
+        "url": "https:\/\/m.lianjia.com\/yt\/"
+    },
+    "330300":
+    {
+        "id": "330300",
+        "name": "\u6e29\u5dde",
+        "host": "m.lianjia.com\/wz",
+        "short": "wz",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "wenzhou",
+        "longitude": "120.65",
+        "latitude": "28.01",
+        "url": "https:\/\/m.lianjia.com\/wz\/"
+    },
+    "442000":
+    {
+        "id": "442000",
+        "name": "\u4e2d\u5c71",
+        "host": "m.lianjia.com\/zs",
+        "short": "zs",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "zhongshan",
+        "longitude": "113.42206",
+        "latitude": "22.545178",
+        "url": "https:\/\/m.lianjia.com\/zs\/"
+    },
+    "130200":
+    {
+        "id": "130200",
+        "name": "\u5510\u5c71",
+        "host": "m.lianjia.com\/ts",
+        "short": "ts",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "tangshan",
+        "longitude": "118.02",
+        "latitude": "39.63",
+        "url": "https:\/\/m.lianjia.com\/ts\/"
+    },
+    "440400":
+    {
+        "id": "440400",
+        "name": "\u73e0\u6d77",
+        "host": "m.lianjia.com\/zh",
+        "short": "zh",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "zhuhai",
+        "longitude": "113.562447",
+        "latitude": "22.256915",
+        "url": "https:\/\/m.lianjia.com\/zh\/"
+    },
+    "330400":
+    {
+        "id": "330400",
+        "name": "\u5609\u5174",
+        "host": "m.lianjia.com\/jx",
+        "short": "jx",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "jiaxing",
+        "longitude": "120.76",
+        "latitude": "30.77",
+        "url": "https:\/\/m.lianjia.com\/jx\/"
+    },
+    "441300":
+    {
+        "id": "441300",
+        "name": "\u60e0\u5dde",
+        "host": "m.lianjia.com\/hui",
+        "short": "hui",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "huizhou",
+        "longitude": "114.422691",
+        "latitude": "23.118805",
+        "url": "https:\/\/m.lianjia.com\/hui\/"
+    },
+    "140100":
+    {
+        "id": "140100",
+        "name": "\u592a\u539f",
+        "host": "m.lianjia.com\/ty",
+        "short": "ty",
+        "province": "\u5c71\u897f",
+        "province_short": "sx",
+        "pinyin": "taiyuan",
+        "longitude": "112.53",
+        "latitude": "37.87",
+        "url": "https:\/\/m.lianjia.com\/ty\/"
+    },
+    "210100":
+    {
+        "id": "210100",
+        "name": "\u6c88\u9633",
+        "host": "m.lianjia.com\/sy",
+        "short": "sy",
+        "province": "\u8fbd\u5b81",
+        "province_short": "ln",
+        "pinyin": "shenyang",
+        "longitude": "123.38",
+        "latitude": "41.8",
+        "url": "https:\/\/m.lianjia.com\/sy\/"
+    },
+    "320600":
+    {
+        "id": "320600",
+        "name": "\u5357\u901a",
+        "host": "m.lianjia.com\/nt",
+        "short": "nt",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "nantong",
+        "longitude": "120.86",
+        "latitude": "32.01",
+        "url": "https:\/\/m.lianjia.com\/nt\/"
+    },
+    "460100":
+    {
+        "id": "460100",
+        "name": "\u6d77\u53e3",
+        "host": "m.lianjia.com\/hk",
+        "short": "hk",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "haikou",
+        "longitude": "110.330802",
+        "latitude": "20.022071",
+        "url": "https:\/\/m.lianjia.com\/hk\/"
+    },
+    "370700":
+    {
+        "id": "370700",
+        "name": "\u6f4d\u574a",
+        "host": "m.lianjia.com\/wf",
+        "short": "wf",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "weifang",
+        "longitude": "119.1",
+        "latitude": "36.62",
+        "url": "https:\/\/m.lianjia.com\/wf\/"
+    },
+    "371300":
+    {
+        "id": "371300",
+        "name": "\u4e34\u6c82",
+        "host": "m.lianjia.com\/linyi",
+        "short": "linyi",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "linyi",
+        "longitude": "118.35",
+        "latitude": "35.05",
+        "url": "https:\/\/m.lianjia.com\/linyi\/"
+    },
+    "320200":
+    {
+        "id": "320200",
+        "name": "\u65e0\u9521",
+        "host": "m.lianjia.com\/wx",
+        "short": "wx",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "wuxi",
+        "longitude": "120.31293",
+        "latitude": "31.497401",
+        "url": "https:\/\/m.lianjia.com\/wx\/"
+    },
+    "320300":
+    {
+        "id": "320300",
+        "name": "\u5f90\u5dde",
+        "host": "m.lianjia.com\/xz",
+        "short": "xz",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "xuzhou",
+        "longitude": "117.2",
+        "latitude": "34.26",
+        "url": "https:\/\/m.lianjia.com\/xz\/"
+    },
+    "460200":
+    {
+        "id": "460200",
+        "name": "\u4e09\u4e9a",
+        "host": "m.lianjia.com\/san",
+        "short": "san",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "sanya",
+        "longitude": "109.50",
+        "latitude": "18.25",
+        "url": "https:\/\/m.lianjia.com\/san\/"
+    },
+    "469005":
+    {
+        "id": "469005",
+        "name": "\u6587\u660c",
+        "host": "m.lianjia.com\/wc",
+        "short": "wc",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "wenchang",
+        "longitude": "109.50",
+        "latitude": "18.25",
+        "url": "https:\/\/m.lianjia.com\/wc\/"
+    },
+    "469002":
+    {
+        "id": "469002",
+        "name": "\u743c\u6d77",
+        "host": "m.lianjia.com\/qh",
+        "short": "qh",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "qionghai",
+        "longitude": "109.50",
+        "latitude": "18.25",
+        "url": "https:\/\/m.lianjia.com\/qh\/"
+    },
+    "469028":
+    {
+        "id": "469028",
+        "name": "\u9675\u6c34",
+        "host": "m.lianjia.com\/ls",
+        "short": "ls",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "lingshui",
+        "longitude": "109.50",
+        "latitude": "18.5123869278",
+        "url": "https:\/\/m.lianjia.com\/ls\/"
+    },
+    "469006":
+    {
+        "id": "469006",
+        "name": "\u4e07\u5b81",
+        "host": "m.lianjia.com\/wn",
+        "short": "wn",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "wanning",
+        "longitude": "109.50",
+        "latitude": "18.25",
+        "url": "https:\/\/m.lianjia.com\/wn\/"
+    },
+    "131000":
+    {
+        "id": "131000",
+        "name": "\u5eca\u574a",
+        "host": "m.lianjia.com\/lf",
+        "short": "lf",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "langfang",
+        "longitude": "116.703602",
+        "latitude": "39.518611",
+        "url": "https:\/\/m.lianjia.com\/lf\/"
+    },
+    "340100":
+    {
+        "id": "340100",
+        "name": "\u5408\u80a5",
+        "host": "m.lianjia.com\/hf",
+        "short": "hf",
+        "province": "\u5b89\u5fbd",
+        "province_short": "ah",
+        "pinyin": "hefei",
+        "longitude": "117.2882028929",
+        "latitude": "31.864942016",
+        "url": "https:\/\/m.lianjia.com\/hf\/"
+    },
+    "530100":
+    {
+        "id": "530100",
+        "name": "\u6606\u660e",
+        "host": "m.lianjia.com\/km",
+        "short": "km",
+        "province": "\u4e91\u5357",
+        "province_short": "yn",
+        "pinyin": "kunming",
+        "longitude": "102.703678",
+        "latitude": "25.045225",
+        "url": "https:\/\/m.lianjia.com\/km\/"
+    },
+    "532800":
+    {
+        "id": "532800",
+        "name": "\u897f\u53cc\u7248\u7eb3",
+        "host": "m.lianjia.com\/xsbn",
+        "short": "xsbn",
+        "province": "\u4e91\u5357",
+        "province_short": "yn",
+        "pinyin": "xishuangbanna",
+        "longitude": "100.803038",
+        "latitude": "22.009433",
+        "url": "https:\/\/m.lianjia.com\/xsbn\/"
+    },
+    "410100":
+    {
+        "id": "410100",
+        "name": "\u90d1\u5dde",
+        "host": "m.lianjia.com\/zz",
+        "short": "zz",
+        "province": "\u6cb3\u5357",
+        "province_short": "hn",
+        "pinyin": "zhengzhou",
+        "longitude": "113.645045",
+        "latitude": "34.754475",
+        "url": "https:\/\/m.lianjia.com\/zz\/"
+    },
+    "469023":
+    {
+        "id": "469023",
+        "name": "\u6f84\u8fc8",
+        "host": "m.lianjia.com\/you\/hncm\/",
+        "short": "cm",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "chengmai",
+        "longitude": "109.996736",
+        "latitude": "19.693135",
+        "url": "https:\/\/m.lianjia.com\/cm\/"
+    },
+    "469024":
+    {
+        "id": "469024",
+        "name": "\u4e34\u9ad8",
+        "host": "m.lianjia.com\/you\/hnlg\/",
+        "short": "lg",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "lingao",
+        "longitude": "109.724102",
+        "latitude": "19.805922",
+        "url": "https:\/\/m.lianjia.com\/lg\/"
+    },
+    "469027":
+    {
+        "id": "469027",
+        "name": "\u4e50\u4e1c",
+        "host": "m.lianjia.com\/you\/hnld\/",
+        "short": "ld",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "ledong",
+        "longitude": "109.062698",
+        "latitude": "18.658614",
+        "url": "https:\/\/m.lianjia.com\/ld\/"
+    },
+    "469003":
+    {
+        "id": "469003",
+        "name": "\u510b\u5dde",
+        "host": "m.lianjia.com\/you\/hndz\/",
+        "short": "dz",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "danzhou",
+        "longitude": "109.413973",
+        "latitude": "19.571153",
+        "url": "https:\/\/m.lianjia.com\/dz\/"
+    },
+    "469001":
+    {
+        "id": "469001",
+        "name": "\u4e94\u6307\u5c71",
+        "host": "m.lianjia.com\/you\/hnwzs\/",
+        "short": "wzs",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "wuzhishan",
+        "longitude": "109.51775",
+        "latitude": "18.831306",
+        "url": "https:\/\/m.lianjia.com\/wzs\/"
+    },
+    "469029":
+    {
+        "id": "469029",
+        "name": "\u4fdd\u4ead",
+        "host": "m.lianjia.com\/you\/hnbt\/",
+        "short": "bt",
+        "province": "\u6d77\u5357",
+        "province_short": "hn",
+        "pinyin": "baoting",
+        "longitude": "109.656113",
+        "latitude": "18.597592",
+        "url": "https:\/\/m.lianjia.com\/bt\/"
+    },
+    "532900":
+    {
+        "id": "532900",
+        "name": "\u5927\u7406",
+        "host": "m.lianjia.com\/dali",
+        "short": "dali",
+        "province": "\u4e91\u5357",
+        "province_short": "yn",
+        "pinyin": "dali",
+        "longitude": "100.223675",
+        "latitude": "25.5969",
+        "url": "https:\/\/m.lianjia.com\/dali\/"
+    },
+    "510600":
+    {
+        "id": "510600",
+        "name": "\u5fb7\u9633",
+        "host": "",
+        "short": "dy",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "104.402398",
+        "latitude": "31.13114",
+        "url": "https:\/\/m.lianjia.com\/dy\/"
+    },
+    "350500":
+    {
+        "id": "350500",
+        "name": "\u6cc9\u5dde",
+        "host": "m.lianjia.com\/quanzhou\/loupan\/fang",
+        "short": "quanzhou",
+        "province": "\u798f\u5efa",
+        "province_short": "fj",
+        "pinyin": "",
+        "longitude": "118.600362",
+        "latitude": "24.901652",
+        "url": "https:\/\/m.lianjia.com\/quanzhou\/"
+    },
+    "321100":
+    {
+        "id": "321100",
+        "name": "\u9547\u6c5f",
+        "host": "",
+        "short": "zj",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "119.455835",
+        "latitude": "32.204409",
+        "url": "https:\/\/m.lianjia.com\/zj\/"
+    },
+    "441800":
+    {
+        "id": "441800",
+        "name": "\u6e05\u8fdc",
+        "host": "",
+        "short": "qy",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "",
+        "longitude": "113.040773",
+        "latitude": "23.698469",
+        "url": "https:\/\/m.lianjia.com\/qy\/"
+    },
+    "330600":
+    {
+        "id": "330600",
+        "name": "\u7ecd\u5174",
+        "host": "",
+        "short": "sx",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "",
+        "longitude": "120.592467",
+        "latitude": "30.002365",
+        "url": "https:\/\/m.lianjia.com\/sx\/"
+    },
+    "511100":
+    {
+        "id": "511100",
+        "name": "\u4e50\u5c71",
+        "host": "",
+        "short": "leshan",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "103.760824",
+        "latitude": "29.600958",
+        "url": "https:\/\/m.lianjia.com\/leshan\/"
+    },
+    "341100":
+    {
+        "id": "341100",
+        "name": "\u6ec1\u5dde",
+        "host": "",
+        "short": "cz",
+        "province": "\u5b89\u5fbd",
+        "province_short": "ah",
+        "pinyin": "",
+        "longitude": "118.32457",
+        "latitude": "32.317351",
+        "url": "https:\/\/m.lianjia.com\/cz\/"
+    },
+    "140700":
+    {
+        "id": "140700",
+        "name": "\u664b\u4e2d",
+        "host": "",
+        "short": "jz",
+        "province": "\u5c71\u897f",
+        "province_short": "sx",
+        "pinyin": "",
+        "longitude": "112.738514",
+        "latitude": "37.693362",
+        "url": "https:\/\/m.lianjia.com\/jz\/"
+    },
+    "130600":
+    {
+        "id": "130600",
+        "name": "\u4fdd\u5b9a",
+        "host": "",
+        "short": "bd",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "115.47138",
+        "latitude": "38.87975",
+        "url": "https:\/\/m.lianjia.com\/bd\/"
+    },
+    "130300":
+    {
+        "id": "130300",
+        "name": "\u79e6\u7687\u5c9b",
+        "host": "",
+        "short": "qhd",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "119.604368",
+        "latitude": "39.945462",
+        "url": "https:\/\/m.lianjia.com\/qhd\/"
+    },
+    "130700":
+    {
+        "id": "130700",
+        "name": "\u5f20\u5bb6\u53e3",
+        "host": "",
+        "short": "zjk",
+        "province": "\u6cb3\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "114.893782",
+        "latitude": "40.811188",
+        "url": "https:\/\/m.lianjia.com\/zjk\/"
+    },
+    "371000":
+    {
+        "id": "371000",
+        "name": "\u5a01\u6d77",
+        "host": "",
+        "short": "weihai",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "",
+        "longitude": "122.093958",
+        "latitude": "37.528787",
+        "url": "https:\/\/m.lianjia.com\/weihai\/"
+    },
+    "511400":
+    {
+        "id": "511400",
+        "name": "\u7709\u5c71",
+        "host": "",
+        "short": "ms",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "103.84143",
+        "latitude": "30.061115",
+        "url": "https:\/\/m.lianjia.com\/ms\/"
+    },
+    "350600":
+    {
+        "id": "350600",
+        "name": "\u6f33\u5dde",
+        "host": "",
+        "short": "zhangzhou",
+        "province": "\u798f\u5efa",
+        "province_short": "fj",
+        "pinyin": "",
+        "longitude": "117.676205",
+        "latitude": "24.517065",
+        "url": "https:\/\/m.lianjia.com\/zhangzhou\/"
+    },
+    "220100":
+    {
+        "id": "220100",
+        "name": "\u957f\u6625",
+        "host": "",
+        "short": "cc",
+        "province": "\u5409\u6797",
+        "province_short": "jl",
+        "pinyin": "",
+        "longitude": "125.313642",
+        "latitude": "43.898338",
+        "url": "https:\/\/m.lianjia.com\/cc\/"
+    },
+    "520100":
+    {
+        "id": "520100",
+        "name": "\u8d35\u9633",
+        "host": "m.lianjia.com\/gy",
+        "short": "gy",
+        "province": "\u8d35\u5dde",
+        "province_short": "gz",
+        "pinyin": "",
+        "longitude": "106.709177",
+        "latitude": "26.629907",
+        "url": "https:\/\/m.lianjia.com\/gy\/"
+    },
+    "150100":
+    {
+        "id": "150100",
+        "name": "\u547c\u548c\u6d69\u7279",
+        "host": "",
+        "short": "hhht",
+        "province": "\u5185\u8499\u53e4",
+        "province_short": "nmg",
+        "pinyin": "",
+        "longitude": "111.660351",
+        "latitude": "40.828319",
+        "url": "https:\/\/m.lianjia.com\/hhht\/"
+    },
+    "430700":
+    {
+        "id": "430700",
+        "name": "\u5e38\u5fb7",
+        "host": "m.lianjia.com\/changde",
+        "short": "changde",
+        "province": "\u6e56\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "111.653718",
+        "latitude": "29.012149",
+        "url": "https:\/\/m.lianjia.com\/changde\/"
+    },
+    "361100":
+    {
+        "id": "361100",
+        "name": "\u4e0a\u9976",
+        "host": "",
+        "short": "sr",
+        "province": "\u6c5f\u897f",
+        "province_short": "jx",
+        "pinyin": "",
+        "longitude": "117.955464",
+        "latitude": "28.457623",
+        "url": "https:\/\/m.lianjia.com\/sr\/"
+    },
+    "350100":
+    {
+        "id": "350100",
+        "name": "\u798f\u5dde",
+        "host": "",
+        "short": "fz",
+        "province": "\u798f\u5efa",
+        "province_short": "fj",
+        "pinyin": "",
+        "longitude": "119.3032",
+        "latitude": "26.081138",
+        "url": "https:\/\/m.lianjia.com\/fz\/"
+    },
+    "430200":
+    {
+        "id": "430200",
+        "name": "\u682a\u6d32",
+        "host": "",
+        "short": "zhuzhou",
+        "province": "\u6e56\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "113.131695",
+        "latitude": "27.827433",
+        "url": "https:\/\/m.lianjia.com\/zhuzhou\/"
+    },
+    "640100":
+    {
+        "id": "640100",
+        "name": "\u94f6\u5ddd",
+        "host": "",
+        "short": "yinchuan",
+        "province": "\u5b81\u590f",
+        "province_short": "nx",
+        "pinyin": "",
+        "longitude": "106.206479",
+        "latitude": "38.502621",
+        "url": "https:\/\/m.lianjia.com\/yinchuan\/"
+    },
+    "450500":
+    {
+        "id": "450500",
+        "name": "\u5317\u6d77",
+        "host": "",
+        "short": "bh",
+        "province": "\u5e7f\u897f",
+        "province_short": "gx",
+        "pinyin": "",
+        "longitude": "109.122628",
+        "latitude": "21.472718",
+        "url": "https:\/\/m.lianjia.com\/bh\/"
+    },
+    "610400":
+    {
+        "id": "610400",
+        "name": "\u54b8\u9633",
+        "host": "",
+        "short": "xianyang",
+        "province": "\u9655\u897f",
+        "province_short": "sx",
+        "pinyin": "",
+        "longitude": "108.707509",
+        "latitude": "34.345373",
+        "url": "https:\/\/m.lianjia.com\/xianyang\/"
+    },
+    "320800":
+    {
+        "id": "320800",
+        "name": "\u6dee\u5b89",
+        "host": "",
+        "short": "ha",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "119.030186",
+        "latitude": "33.606513",
+        "url": "https:\/\/m.lianjia.com\/ha\/"
+    },
+    "510700":
+    {
+        "id": "510700",
+        "name": "\u7ef5\u9633",
+        "host": "",
+        "short": "mianyang",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "104.705519",
+        "latitude": "31.504701",
+        "url": "https:\/\/m.lianjia.com\/mianyang\/"
+    },
+    "511700":
+    {
+        "id": "511700",
+        "name": "\u8fbe\u5dde",
+        "host": "",
+        "short": "dazhou",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "107.494973",
+        "latitude": "31.214199",
+        "url": "https:\/\/m.lianjia.com\/dazhou\/"
+    },
+    "410700":
+    {
+        "id": "410700",
+        "name": "\u65b0\u4e61",
+        "host": "",
+        "short": "xinxiang",
+        "province": "\u6cb3\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "113.91269",
+        "latitude": "35.307258",
+        "url": "https:\/\/m.lianjia.com\/xinxiang\/"
+    },
+    "511300":
+    {
+        "id": "511300",
+        "name": "\u5357\u5145",
+        "host": "",
+        "short": "nanchong",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "106.105554",
+        "latitude": "30.800965",
+        "url": "https:\/\/m.lianjia.com\/nanchong\/"
+    },
+    "410300":
+    {
+        "id": "410300",
+        "name": "\u6d1b\u9633",
+        "host": "",
+        "short": "luoyang",
+        "province": "\u6cb3\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "112.447525",
+        "latitude": "34.657368",
+        "url": "https:\/\/m.lianjia.com\/luoyang\/"
+    },
+    "440800":
+    {
+        "id": "440800",
+        "name": "\u6e5b\u6c5f",
+        "host": "",
+        "short": "zhanjiang",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "",
+        "longitude": "110.365067",
+        "latitude": "21.257463",
+        "url": "https:\/\/m.lianjia.com\/zhanjiang\/"
+    },
+    "360100":
+    {
+        "id": "360100",
+        "name": "\u5357\u660c",
+        "host": "m.lianjia.com\/nc",
+        "short": "nc",
+        "province": "\u6c5f\u897f",
+        "province_short": "jx",
+        "pinyin": "",
+        "longitude": "115.8579",
+        "latitude": "28.6820",
+        "url": "https:\/\/m.lianjia.com\/nc\/"
+    },
+    "420200":
+    {
+        "id": "420200",
+        "name": "\u9ec4\u77f3",
+        "host": "m.lianjia.com\/huangshi",
+        "short": "huangshi",
+        "province": "\u6e56\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "115.0389",
+        "latitude": "30.1995",
+        "url": "https:\/\/m.lianjia.com\/huangshi\/"
+    },
+    "420600":
+    {
+        "id": "420600",
+        "name": "\u8944\u9633",
+        "host": "m.lianjia.com\/xy",
+        "short": "xy",
+        "province": "\u6e56\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "112.1225",
+        "latitude": "32.0090",
+        "url": "https:\/\/m.lianjia.com\/xy\/"
+    },
+    "370300":
+    {
+        "id": "370300",
+        "name": "\u6dc4\u535a",
+        "host": "m.lianjia.com\/zb",
+        "short": "zb",
+        "province": "\u5c71\u4e1c",
+        "province_short": "sd",
+        "pinyin": "",
+        "longitude": "118.0548",
+        "latitude": "36.8131",
+        "url": "https:\/\/m.lianjia.com\/zb\/"
+    },
+    "410200":
+    {
+        "id": "410200",
+        "name": "\u5f00\u5c01",
+        "host": "m.lianjia.com\/kf",
+        "short": "kf",
+        "province": "\u6cb3\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "114.3073",
+        "latitude": "34.7972",
+        "url": "https:\/\/m.lianjia.com\/kf\/"
+    },
+    "420500":
+    {
+        "id": "420500",
+        "name": "\u5b9c\u660c",
+        "host": "m.lianjia.com\/yichang",
+        "short": "yichang",
+        "province": "\u6e56\u5317",
+        "province_short": "hb",
+        "pinyin": "",
+        "longitude": "111.2864",
+        "latitude": "30.6918",
+        "url": "https:\/\/m.lianjia.com\/yichang\/"
+    },
+    "330200":
+    {
+        "id": "330200",
+        "name": "\u5b81\u6ce2",
+        "host": "m.lianjia.com\/nb",
+        "short": "nb",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "",
+        "longitude": "121.5502",
+        "latitude": "29.8738",
+        "url": "https:\/\/m.lianjia.com\/nb\/"
+    },
+    "411000":
+    {
+        "id": "411000",
+        "name": "\u8bb8\u660c",
+        "host": "m.lianjia.com\/xc",
+        "short": "xc",
+        "province": "\u6cb3\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "113.8523",
+        "latitude": "34.0357",
+        "url": "https:\/\/m.lianjia.com\/xc\/"
+    },
+    "230100":
+    {
+        "id": "230100",
+        "name": "\u54c8\u5c14\u6ee8",
+        "host": "m.lianjia.com\/hrb",
+        "short": "hrb",
+        "province": "\u9ed1\u9f99\u6c5f",
+        "province_short": "hlj",
+        "pinyin": "",
+        "longitude": "126.5358",
+        "latitude": "45.8021",
+        "url": "https:\/\/m.lianjia.com\/hrb\/"
+    },
+    "320400":
+    {
+        "id": "320400",
+        "name": "\u5e38\u5dde",
+        "host": "m.lianjia.com\/changzhou",
+        "short": "changzhou",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "119.97365",
+        "latitude": "31.81072",
+        "url": "https:\/\/m.lianjia.com\/changzhou\/"
+    },
+    "440700":
+    {
+        "id": "440700",
+        "name": "\u6c5f\u95e8",
+        "host": "m.lianjia.com\/jiangmen",
+        "short": "jiangmen",
+        "province": "\u5e7f\u4e1c",
+        "province_short": "gd",
+        "pinyin": "",
+        "longitude": "113.08161",
+        "latitude": "22.57865",
+        "url": "https:\/\/m.lianjia.com\/jiangmen\/"
+    },
+    "620100":
+    {
+        "id": "620100",
+        "name": "\u5170\u5dde",
+        "host": "m.lianjia.com\/lz",
+        "short": "lz",
+        "province": "\u7518\u8083",
+        "province_short": "gs",
+        "pinyin": "",
+        "longitude": "103.83417",
+        "latitude": "36.06138",
+        "url": "https:\/\/m.lianjia.com\/lz\/"
+    },
+    "450200":
+    {
+        "id": "450200",
+        "name": "\u67f3\u5dde",
+        "host": "m.lianjia.com\/liuzhou",
+        "short": "liuzhou",
+        "province": "\u5e7f\u897f",
+        "province_short": "gx",
+        "pinyin": "",
+        "longitude": "109.41552",
+        "latitude": "24.32543",
+        "url": "https:\/\/m.lianjia.com\/liuzhou\/"
+    },
+    "340500":
+    {
+        "id": "340500",
+        "name": "\u9a6c\u978d\u5c71",
+        "host": "m.lianjia.com\/mas",
+        "short": "mas",
+        "province": "\u5b89\u5fbd",
+        "province_short": "af",
+        "pinyin": "",
+        "longitude": "118.50611",
+        "latitude": "31.67067",
+        "url": "https:\/\/m.lianjia.com\/mas\/"
+    },
+    "210600":
+    {
+        "id": "210600",
+        "name": "\u4e39\u4e1c",
+        "host": "m.lianjia.com\/dd",
+        "short": "dd",
+        "province": "\u8fbd\u5b81",
+        "province_short": "ln",
+        "pinyin": "",
+        "longitude": "124.39582",
+        "latitude": "40.135137",
+        "url": "https:\/\/m.lianjia.com\/dd\/"
+    },
+    "450300":
+    {
+        "id": "450300",
+        "name": "\u6842\u6797",
+        "host": "m.lianjia.com\/gl",
+        "short": "gl",
+        "province": "\u5e7f\u897f",
+        "province_short": "gx",
+        "pinyin": "",
+        "longitude": "110.29002",
+        "latitude": "25.27361",
+        "url": "https:\/\/m.lianjia.com\/gl\/"
+    },
+    "330500":
+    {
+        "id": "330500",
+        "name": "\u6e56\u5dde",
+        "host": "m.lianjia.com\/huzhou",
+        "short": "huzhou",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "",
+        "longitude": "120.08805",
+        "latitude": "30.89305",
+        "url": "https:\/\/m.lianjia.com\/huzhou\/"
+    },
+    "320900":
+    {
+        "id": "320900",
+        "name": "\u76d0\u57ce",
+        "host": "m.lianjia.com\/yc",
+        "short": "yc",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "120.16164",
+        "latitude": "30.34951",
+        "url": "https:\/\/m.lianjia.com\/yc\/"
+    },
+    "331000":
+    {
+        "id": "331000",
+        "name": "\u53f0\u5dde",
+        "host": "m.lianjia.com\/taizhou",
+        "short": "taizhou",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "",
+        "longitude": "121.42056",
+        "latitude": "28.65611",
+        "url": "https:\/\/m.lianjia.com\/taizhou\/"
+    },
+    "610700":
+    {
+        "id": "610700",
+        "name": "\u6c49\u4e2d",
+        "host": "",
+        "short": "hanzhong",
+        "province": "\u9655\u897f",
+        "province_short": "sx",
+        "pinyin": "",
+        "longitude": "107.045478",
+        "latitude": "33.081569",
+        "url": "https:\/\/m.lianjia.com\/hanzhong\/"
+    },
+    "513400":
+    {
+        "id": "513400",
+        "name": "\u51c9\u5c71",
+        "host": "",
+        "short": "liangshan",
+        "province": "\u56db\u5ddd",
+        "province_short": "sc",
+        "pinyin": "",
+        "longitude": "102.259591",
+        "latitude": "27.892393",
+        "url": "https:\/\/m.lianjia.com\/liangshan\/"
+    },
+    "330700":
+    {
+        "id": "330700",
+        "name": "\u91d1\u534e",
+        "host": "",
+        "short": "jh",
+        "province": "\u6d59\u6c5f",
+        "province_short": "zj",
+        "pinyin": "",
+        "longitude": "119.652576",
+        "latitude": "29.102899",
+        "url": "https:\/\/m.lianjia.com\/jh\/"
+    },
+    "450100":
+    {
+        "id": "450100",
+        "name": "\u5357\u5b81",
+        "host": "",
+        "short": "nn",
+        "province": "\u5e7f\u897f",
+        "province_short": "gx",
+        "pinyin": "",
+        "longitude": "108.297234",
+        "latitude": "22.806493",
+        "url": "https:\/\/m.lianjia.com\/nn\/"
+    },
+    "340200":
+    {
+        "id": "340200",
+        "name": "\u829c\u6e56",
+        "host": "",
+        "short": "wuhu",
+        "province": "\u5b89\u5fbd",
+        "province_short": "ah",
+        "pinyin": "",
+        "longitude": "118.384108",
+        "latitude": "31.36602",
+        "url": "https:\/\/m.lianjia.com\/wuhu\/"
+    },
+    "220200":
+    {
+        "id": "220200",
+        "name": "\u5409\u6797",
+        "host": "",
+        "short": "jl",
+        "province": "\u5409\u6797",
+        "province_short": "jl",
+        "pinyin": "",
+        "longitude": "126.564544",
+        "latitude": "43.871988",
+        "url": "https:\/\/m.lianjia.com\/jl\/"
+    },
+    "340800":
+    {
+        "id": "340800",
+        "name": "\u5b89\u5e86",
+        "host": "",
+        "short": "aq",
+        "province": "\u5b89\u5fbd",
+        "province_short": "ah",
+        "pinyin": "",
+        "longitude": "117.058739",
+        "latitude": "30.537898",
+        "url": "https:\/\/m.lianjia.com\/aq\/"
+    },
+    "360700":
+    {
+        "id": "360700",
+        "name": "\u8d63\u5dde",
+        "host": "m.lianjia.com\/ganzhou",
+        "short": "ganzhou",
+        "province": "\u6c5f\u897f",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "114.93476",
+        "latitude": "25.83109",
+        "url": "https:\/\/m.lianjia.com\/ganzhou\/"
+    },
+    "610300":
+    {
+        "id": "610300",
+        "name": "\u5b9d\u9e21",
+        "host": "m.lianjia.com\/baoji",
+        "short": "baoji",
+        "province": "\u9655\u897f",
+        "province_short": "sx",
+        "pinyin": "",
+        "longitude": "107.23732",
+        "latitude": "34.36194",
+        "url": "https:\/\/m.lianjia.com\/baoji\/"
+    },
+    "360800":
+    {
+        "id": "360800",
+        "name": "\u5409\u5b89",
+        "host": "m.lianjia.com\/jian",
+        "short": "jian",
+        "province": "\u6c5f\u897f",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "114.99376",
+        "latitude": "27.11382",
+        "url": "https:\/\/m.lianjia.com\/jian\/"
+    },
+    "360400":
+    {
+        "id": "360400",
+        "name": "\u4e5d\u6c5f",
+        "host": "m.lianjia.com\/jiujiang",
+        "short": "jiujiang",
+        "province": "\u6c5f\u897f",
+        "province_short": "jx",
+        "pinyin": "",
+        "longitude": "115.999848",
+        "latitude": "29.71964",
+        "url": "https:\/\/m.lianjia.com\/jiujiang\/"
+    },
+    "430600":
+    {
+        "id": "430600",
+        "name": "\u5cb3\u9633",
+        "host": "m.lianjia.com\/yy",
+        "short": "yy",
+        "province": "\u6e56\u5357",
+        "province_short": "hn",
+        "pinyin": "",
+        "longitude": "113.146196",
+        "latitude": "29.378007",
+        "url": "https:\/\/m.lianjia.com\/yy\/"
+    },
+    "320583":
+    {
+        "id": "320583",
+        "name": "\u6606\u5c71",
+        "host": "m.lianjia.com\/ks",
+        "short": "ks",
+        "province": "\u6c5f\u82cf",
+        "province_short": "js",
+        "pinyin": "",
+        "longitude": "120.985391",
+        "latitude": "31.391886",
+        "url": "https:\/\/m.lianjia.com\/ks\/"
+    },
+    "450600":
+    {
+        "id": "450600",
+        "name": "\u9632\u57ce\u6e2f",
+        "host": "m.lianjia.com\/fcg",
+        "short": "fcg",
+        "province": "\u5e7f\u897f",
+        "province_short": "gx",
+        "pinyin": "",
+        "longitude": "108.351791",
+        "latitude": "21.617398",
+        "url": "https:\/\/m.lianjia.com\/fcg\/"
+    }
+}
