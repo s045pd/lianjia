@@ -1,7 +1,7 @@
 asks==2.3.2
 pandas==0.24.2
 termcolor==1.1.0
-celery==4.3.0
+celery==5.2.2
 requests==2.21.0
 mongoengine==0.17.0
 pyquery==1.4.0
